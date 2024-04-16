@@ -63,8 +63,8 @@ p {
 /* Media queries for responsiveness */
 @media screen and (max-width: 1440px) {
     h1 {
-        font-size: 2.7rem;
-        margin-top: 40%;
+        font-size: 4rem;
+        margin-top: 50%;
         /* Adjusted margin-top for centralization */
     }
 
@@ -72,14 +72,14 @@ p {
     .first,
     p,
     .highlight {
-        font-size: 1.3rem;
-        margin-top: 10px;
+        font-size: 2.5rem;
+        margin-top: 2%;
         /* Adjusted margin-top for proper spacing */
     }
 
     .tech-font,
     .clg-font {
-        font-size: 1.5rem;
+        font-size:2.5rem;
     }
 }
 
