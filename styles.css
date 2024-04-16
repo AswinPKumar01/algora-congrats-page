@@ -72,14 +72,14 @@ p {
     .first,
     p,
     .highlight {
-        font-size: 2.5rem;
-        margin-top: 2%;
+        font-size: 2rem;
+        margin-top: 10%;
         /* Adjusted margin-top for proper spacing */
     }
 
     .tech-font,
     .clg-font {
-        font-size:2.5rem;
+        font-size:2rem;
     }
 }
 
