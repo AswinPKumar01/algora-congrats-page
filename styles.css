@@ -7,11 +7,6 @@ body {
     padding: 2rem;
     color: orange;
     position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
 }
 
 h1 {
@@ -65,9 +60,11 @@ p {
 }
 
 /* Media queries for responsiveness */
-@media screen and (max-width: 1480px) {
+/* Media queries for responsiveness */
+@media screen and (max-width: 1440px) {
     h1 {
-        font-size: 3rem;
+        font-size: 2.5rem;
+        margin-top: 40%;
         /* Adjusted margin-top for centralization */
     }
 
@@ -75,14 +72,14 @@ p {
     .first,
     p,
     .highlight {
-        font-size: 1.7rem;
+        font-size: 1rem;
         margin-top: 10px;
         /* Adjusted margin-top for proper spacing */
     }
 
     .tech-font,
     .clg-font {
-        font-size: 2.3rem;
+        font-size: 1rem;
     }
 }
 
