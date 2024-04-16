@@ -7,6 +7,11 @@ body {
     padding: 2rem;
     color: orange;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
 }
 
 h1 {
@@ -63,7 +68,6 @@ p {
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 2.5rem;
-        margin-top: 50%;
         /* Adjusted margin-top for centralization */
     }
 
