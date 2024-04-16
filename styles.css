@@ -63,7 +63,7 @@ p {
 /* Media queries for responsiveness */
 @media screen and (max-width: 1440px) {
     h1 {
-        font-size: 4rem;
+        font-size: 5rem;
         margin-top: 50%;
         /* Adjusted margin-top for centralization */
     }
