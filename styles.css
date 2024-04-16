@@ -60,9 +60,12 @@ p {
 }
 
 /* Media queries for responsiveness */
+/* Media queries for responsiveness */
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 2.5rem;
+        margin-top: 50%;
+        /* Adjusted margin-top for centralization */
     }
 
     .key,
@@ -70,6 +73,8 @@ p {
     p,
     .highlight {
         font-size: 1rem;
+        margin-top: 10px;
+        /* Adjusted margin-top for proper spacing */
     }
 
     .tech-font,
