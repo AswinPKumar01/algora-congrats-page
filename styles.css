@@ -67,7 +67,7 @@ p {
 /* Media queries for responsiveness */
 @media screen and (max-width: 480px) {
     h1 {
-        font-size: 3.5rem;
+        font-size: 2.8rem;
         /* Adjusted margin-top for centralization */
     }
 
@@ -75,14 +75,14 @@ p {
     .first,
     p,
     .highlight {
-        font-size: 2rem;
+        font-size: 1.3rem;
         margin-top: 10px;
         /* Adjusted margin-top for proper spacing */
     }
 
     .tech-font,
     .clg-font {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 
